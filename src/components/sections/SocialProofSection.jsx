@@ -68,7 +68,7 @@ const SocialProofSection = () => {
             Trusted by <span className="text-blue-600">500+ Perth Businesses</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Real results from real Perth business owners who transformed their growth with our $20 campaigns
+            Real results from real Perth business owners who transformed their growth with our $100 campaigns
           </p>
         </motion.div>
 
